@@ -1,0 +1,23 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets (ubicados en la raíz)
+*.csv
+
+# Carpetas de salidas autogeneradas por el notebook
+figuras_presentacion/
+resultados_modelos/
+
+# IDEs y OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
